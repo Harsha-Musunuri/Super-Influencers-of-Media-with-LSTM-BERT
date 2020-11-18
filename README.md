@@ -2,7 +2,7 @@
 
 # Architecture Pipeline
 
-![Architecture Pipeline](ReadMeImages/Architecture pipeline.png)
+![Architecture Pipeline](ReadMeImages/architecturePipeline.png)
 
 # Approach
 ![Approach](ReadMeImages/Approach.png)
