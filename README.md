@@ -1,2 +1,8 @@
-# UBS_Pitch_Competition
-All about The UBS Pitch
+# Problem Statement
+
+# Architecture Pipeline
+
+![Architecture Pipeline](ReadMeImages/Architecture pipeline.png)
+
+# Approach
+![Approach](ReadMeImages/Approach.png)
