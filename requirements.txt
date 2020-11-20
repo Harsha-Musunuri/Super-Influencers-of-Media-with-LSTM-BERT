@@ -2,3 +2,8 @@ nlp-rake
 kneed
 matplotlib
 pandas
+sentence_transformers
+sklearn
+numpy
+
+
